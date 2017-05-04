@@ -1,0 +1,17 @@
+{
+	"demo.html": {
+		"resources": [
+			"src/H5lock.js",
+			"js/mui.js"
+		],
+		"refer": [
+			"1.html"
+		]
+	},
+	"1.html": {
+		"resources": [
+			"js/mui.min.js",
+			"css/mui.min.css"
+		]
+	}
+}
